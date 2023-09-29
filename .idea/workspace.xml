@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b4363e-b2f7-42da-95c9-0118a850bfe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables and data types assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
+    <list default="true" id="f6b4363e-b2f7-42da-95c9-0118a850bfe2" name="Changes" comment="The assignment is complete.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +38,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question3">
+  <component name="RunManager" selected="Application.Question1">
     <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question1" />
       <module name="Variables and data types assignment" />
@@ -70,9 +62,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.Question1" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1695984572155</updated>
     </task>
+    <task id="LOCAL-00001" summary="The assignment is complete.">
+      <created>1695985766871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695985766871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The assignment is complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="The assignment is complete." />
   </component>
 </project>
